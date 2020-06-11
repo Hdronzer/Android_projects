@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoListMVVM</string>
+    <string name="offline_message">Something went wrong</string>
+    <string name="another_try">Give it another try</string>
+    <string name="reload">Reload</string>
+</resources>
