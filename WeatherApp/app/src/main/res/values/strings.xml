@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome_message">Welcome to Weather App</string>
+    <string name="zip_code">Enter the city Zip Code</string>
+    <string name="button_text">Get Weather Data</string>
+    <string name="no_zip_code">Please Enter the zip code to search</string>
+    <string name="no_internet">Data could not be get due to incorrect pincode or No network</string>
+</resources>
